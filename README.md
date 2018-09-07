@@ -1,4 +1,4 @@
 # Welcome
 
-  * [My Github profile](https://github.com/keithito)
-  * [My personal website](http://keithito.com)
+  * [Audio samples from keithito/tacotron](https://github.com/keithito/tacotron)
+  * [My website](https://keithito.com)
